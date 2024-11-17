@@ -1,8 +1,12 @@
-import React from "react";
-import { NavLink } from "react-router-dom";
+import React, { useContext } from "react";
+import { Link, NavLink } from "react-router-dom";
 import Logo from "../assets/logo.png";
+import { AuthContext } from "../utils/AuthProvider";
 
 const Navbar = () => {
+  const { user } = useContext(AuthContext);
+  console.log(user);
+
   return (
     <div className="w-10/12 mx-auto flex justify-between items-center py-3">
       <div>
@@ -51,9 +55,15 @@ const Navbar = () => {
         </NavLink>
       </div>
       <div>
-        <button className="py-1 px-4 rounded-md bg-violet-600 text-white">
-          Login
-        </button>
+        {user ? (
+          <button className="py-1 px-4 rounded-md bg-violet-600 text-white">
+            Sign out
+          </button>
+        ) : (
+          <button className="py-1 px-4 rounded-md bg-violet-600 text-white">
+            <Link to="/login">Login</Link>
+          </button>
+        )}
       </div>
     </div>
   );

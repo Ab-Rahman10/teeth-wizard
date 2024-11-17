@@ -5,6 +5,8 @@ import AllTreatments from "../Layouts/AllTreatments";
 import MyAppointments from "../Layouts/MyAppointments";
 import Profile from "../Layouts/Profile";
 import Details from "../Components/Details";
+import Login from "../Components/AuthLayouts/Login";
+import Register from "../Components/AuthLayouts/Register";
 
 const router = createBrowserRouter([
   {
@@ -49,6 +51,14 @@ const router = createBrowserRouter([
           );
           return singleDetailsData;
         },
+      },
+      {
+        path: "/login",
+        element: <Login></Login>,
+      },
+      {
+        path: "/register",
+        element: <Register></Register>,
       },
     ],
   },
