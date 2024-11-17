@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/ZMcCGsx/84383.jpg",
+    "title": "Teeth Cleaning",
+    "price": 49.99,
+    "description": "Our teeth cleaning service is designed to remove plaque, tartar, and stains from your teeth while providing you with a fresh and healthy smile. Our experienced hygienists ensure a gentle yet thorough cleaning to promote long-term oral health and prevent cavities."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/6Pb3R2q/middle-aged-man-red-t-shirt-pulling-mouth-aside-with-hands-looking-funny-front-view.png",
+    "title": "Teeth Whitening",
+    "price": 99.99,
+    "description": "Brighten your smile with our advanced teeth whitening treatments that effectively remove discoloration and stains. Using state-of-the-art technology, we ensure a noticeable difference in the brightness of your teeth in just one session."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/K5hy4Hs/i-Stock-1059440790-dental-implant-scaled.jpg",
+    "title": "Root Canal",
+    "price": 199.99,
+    "description": "Our root canal treatment provides relief from severe tooth pain and saves your natural tooth. Using modern techniques and equipment, we ensure a painless and efficient procedure, restoring your oral health and smile."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/rvmM2C4/young-male-pink-shirt-laughing-while-holding-his-chin-looking-happy-2.png",
+    "title": "Dental Braces",
+    "price": 1500.0,
+    "description": "Transform your smile with our dental braces designed to correct misaligned teeth and improve your bite. We offer a range of options, including traditional braces and clear aligners, to cater to your specific needs."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/XV2J0Mn/44088.jpg",
+    "title": "Dental Implants",
+    "price": 3000.0,
+    "description": "Replace missing teeth with our durable and natural-looking dental implants. Our experienced team ensures precise placement for a comfortable and long-lasting solution that restores both function and aesthetics."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/KjC9KTH/85394.jpg",
+    "title": "Tooth Fillings",
+    "price": 79.99,
+    "description": "Repair cavities and restore the structure of your teeth with our high-quality fillings. Our fillings are designed to blend seamlessly with your natural teeth, ensuring durability and aesthetics."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/Wx93FJp/18993.jpg",
+    "title": "Dental Crowns",
+    "price": 899.99,
+    "description": "Protect and restore your damaged teeth with custom-made dental crowns. Our crowns are crafted to fit perfectly and match the color of your natural teeth for a flawless look."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/bvSvMPb/8832.jpg",
+    "title": "Tooth Extraction",
+    "price": 99.99,
+    "description": "Our safe and painless tooth extraction services are performed with care and precision. We ensure a comfortable experience, whether you're removing a decayed tooth or making room for orthodontic treatment."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/mBdFLnc/5224.jpg",
+    "title": "Pediatric Care",
+    "price": 69.99,
+    "description": "Our pediatric dentistry services focus on making dental visits enjoyable for children. From routine cleanings to cavity prevention, we ensure your child’s oral health is off to a great start."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/47qTZc7/2778.jpg",
+    "title": "Gum Treatment",
+    "price": 129.99,
+    "description": "Treat and prevent gum disease with our personalized care plans. We use advanced techniques to restore gum health, reduce inflammation, and maintain the foundation of your smile."
+  }
+]
